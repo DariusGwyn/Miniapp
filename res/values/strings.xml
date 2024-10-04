@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To-Do de Historia</string>
+    <string-array name="priority_options">
+        <item>Baja</item>
+        <item>Media</item>
+        <item>Alta</item>
+    </string-array>
+</resources>
+
